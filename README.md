@@ -28,7 +28,7 @@ Toolzng takes raw research text or uploaded `.docx` files and automatically form
 ## Screenshots
 
 ### Homepage
-![Toolzng Homepage](./screenshots/homepage.png)
+![Toolzng Homepage](./screenshots/homepages.png)
 
 ### Formatter Tool
 ![Toolzng Formatter](./screenshots/formatter.png)
